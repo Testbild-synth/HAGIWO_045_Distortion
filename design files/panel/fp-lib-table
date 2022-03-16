@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "hagiwo_045_distortion")(type KiCad)(uri "$(KIPRJMOD)/hagiwo_045_distortion.pretty")(options "")(descr ""))
+)
