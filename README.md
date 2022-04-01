@@ -19,7 +19,7 @@ For the panel, since it has copper exposed, make sure to choose a lead free surf
 Build is super straight forward, but the 250K Pots specified by HAGIWO can be hard to source. I just used 1M instead, which probably changes how gain and distortion 
 behave, but it still works so you can try that instead if you have a hard time sourcing 250k.
 
-<img src="images/side.jpg" width="15%" height="15%"> <img src="images/back.jpg" width="15%" height="15%">
+<img src="images/side.jpg" width="20%" height="20%"> <img src="images/back.jpg" width="20%" height="20%">
 
 ## Ideas
 
