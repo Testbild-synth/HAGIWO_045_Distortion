@@ -1,6 +1,8 @@
 # HAGIWO Diode Distortion Eurorack Module
 <img src="images/in_rack.jpg" width="25%" height="25%">
 Through-hole 4HP  PCB version of the HAGIWO distortion eurorack module. 
+
+
 ### Current Status: Confirmed working, will update build guide and files later today.
 
 ## Hardware and PCB
